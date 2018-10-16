@@ -1,3 +1,31 @@
+## ros_emacs_utils (melodic) - 0.4.13-0
+
+The packages in the `ros_emacs_utils` repository were released into the `melodic` distro by running `/usr/bin/bloom-release ros_emacs_utils --rosdistro melodic` on `Tue, 16 Oct 2018 14:34:47 -0000`
+
+These packages were released:
+- `ros_emacs_utils`
+- `rosemacs`
+- `roslisp_repl`
+- `slime_ros`
+- `slime_wrapper`
+
+Version of package(s) in repository `ros_emacs_utils`:
+
+- upstream repository: https://github.com/code-iai/ros_emacs_utils.git
+- release repository: https://github.com/code-iai-release/ros_emacs_utils-release.git
+- rosdistro version: `0.4.12-0`
+- old version: `0.4.12-0`
+- new version: `0.4.13-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.7`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.9`
+- vcstools version: `0.1.40`
+
+
 ## ros_emacs_utils (melodic) - 0.4.12-0
 
 The packages in the `ros_emacs_utils` repository were released into the `melodic` distro by running `/usr/bin/bloom-release ros_emacs_utils --track melodic --rosdistro melodic` on `Fri, 16 Mar 2018 13:30:22 -0000`
