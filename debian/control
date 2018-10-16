@@ -1,0 +1,12 @@
+Source: ros-melodic-rosemacs
+Section: misc
+Priority: extra
+Maintainer: Gayane Kazhoyan <kazhoyan@cs.uni-bremen.de>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: http://www.ros.org/wiki/rosemacs
+Standards-Version: 3.9.2
+
+Package: ros-melodic-rosemacs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, emacs
+Description: ROS tools for those who live in Emacs.
