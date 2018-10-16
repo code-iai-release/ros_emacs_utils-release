@@ -1,0 +1,12 @@
+Source: ros-melodic-slime-ros
+Section: misc
+Priority: extra
+Maintainer: Gayane Kazhoyan <kazhoyan@cs.uni-bremen.de>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-slime-ros
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-rosemacs, ros-melodic-roslisp, ros-melodic-slime-wrapper, sbcl
+Description: Extensions for slime to assist in working with ROS packages
