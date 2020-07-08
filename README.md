@@ -1,3 +1,31 @@
+## ros_emacs_utils (melodic) - 0.4.16-1
+
+The packages in the `ros_emacs_utils` repository were released into the `melodic` distro by running `/usr/bin/bloom-release ros_emacs_utils --rosdistro melodic` on `Wed, 08 Jul 2020 20:54:17 -0000`
+
+These packages were released:
+- `ros_emacs_utils`
+- `rosemacs`
+- `roslisp_repl`
+- `slime_ros`
+- `slime_wrapper`
+
+Version of package(s) in repository `ros_emacs_utils`:
+
+- upstream repository: https://github.com/code-iai/ros_emacs_utils.git
+- release repository: https://github.com/code-iai-release/ros_emacs_utils-release.git
+- rosdistro version: `0.4.14-1`
+- old version: `0.4.14-1`
+- new version: `0.4.16-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.22`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## ros_emacs_utils (noetic) - 0.4.15-1
 
 The packages in the `ros_emacs_utils` repository were released into the `noetic` distro by running `/usr/bin/bloom-release ros_emacs_utils --rosdistro noetic` on `Sun, 24 May 2020 18:09:31 -0000`
